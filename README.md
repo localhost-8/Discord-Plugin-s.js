@@ -1,1 +1,1 @@
-# Plugin's.js
+# Discord Plugin's.js
